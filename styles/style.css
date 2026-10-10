@@ -1,0 +1,29 @@
+body{
+  
+  background-color: #a5bde8;
+  font-family: Arial;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+  
+}
+
+h1{
+  
+  font-size: 24vw;
+  text-align: center;
+  margin-top: 1vw;
+  color: #031cfc;
+  
+}
+
+
+
+
+button{
+  
+  color: #031cfc;
+  background-color: aqua;
+  
+}
